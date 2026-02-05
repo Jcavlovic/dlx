@@ -67,4 +67,5 @@ module alu_op(
             // Default
             default: results = {{15{1'b0}}};
         endcase
+    end
 endmodule
