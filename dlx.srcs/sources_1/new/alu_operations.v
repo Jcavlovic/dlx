@@ -19,8 +19,8 @@
 //////////////////////////////////////////////////////////////////////////////////
 
 module alu_op(
-    input [5:0] alu_op,
-    input [7:0] s1, s2,
+    input wire [5:0] alu_op,
+    input wire [7:0] s1, s2,
     output reg [15:0] results
     );
     

@@ -1,0 +1,8 @@
+0.7
+2020.2
+Nov 14 2025
+12:36:23
+/home/cavlovicj/repo/dlx/dlx.sim/sim_1/behav/xsim/glbl.v,1756381829,verilog,,,,glbl,,,,,,,,
+/home/cavlovicj/repo/dlx/dlx.srcs/sim_1/new/alu_sim.v,1774830081,verilog,,,,alu_sim,,,../../../../../../Vivado/2025.2/data/rsb/busdef,,,,,
+/home/cavlovicj/repo/dlx/dlx.srcs/sources_1/new/alu_operations.v,1774828812,verilog,,/home/cavlovicj/repo/dlx/dlx.srcs/sim_1/new/alu_sim.v,,alu_op,,,../../../../../../Vivado/2025.2/data/rsb/busdef,,,,,
+/home/cavlovicj/repo/dlx/dlx.srcs/sources_1/new/dlx_alu.v,1774829143,verilog,,/home/cavlovicj/repo/dlx/dlx.srcs/sim_1/new/alu_sim.v,,dlx_alu,,,../../../../../../Vivado/2025.2/data/rsb/busdef,,,,,
